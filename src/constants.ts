@@ -1,0 +1,1 @@
+export const MESSAGES_PAGINATION_SIZE = 20;
